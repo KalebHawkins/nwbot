@@ -2,7 +2,7 @@ module github.com/KalebHawkins/nwbot
 
 go 1.18
 
-require github.com/KalebHawkins/gamebot v0.0.0-20220921225307-cdf80e707619
+require github.com/KalebHawkins/gamebot v0.0.0-20220921235558-54443724ff3a
 
 require (
 	github.com/StackExchange/wmi v1.2.1 // indirect
